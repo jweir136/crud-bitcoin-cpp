@@ -9,6 +9,8 @@ class Int4096 {
 
     public:
         Int4096();
+
+        ~Int4096();
 };
 
 #endif
